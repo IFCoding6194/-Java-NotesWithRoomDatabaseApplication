@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotesRDJavaApp</string>
+
+    <style name="NoUnderlineEditText">
+        <item name="android:background">@null</item>
+    </style>
+</resources>
